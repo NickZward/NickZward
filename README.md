@@ -12,6 +12,10 @@ Fraud data analyst at **ABN AMRO** in Amsterdam. I work with payment scheme data
 - **[funda-property-scraper](https://github.com/NickZward/funda-property-scraper)**: Selenium scraper for Dutch property listings on Funda.nl, with geocoding and an interactive Leaflet map for any Dutch city
 - **[pandektis-scraper](https://github.com/NickZward/pandektis-scraper)**: pipeline that extracts and geocodes 4,413 historical Greek settlement renamings from the Pandektis/EKT database into GeoJSON
 
+## 📊 Data projects
+
+- **[boodschappen-index](https://github.com/NickZward/boodschappen-index)**: an independent daily Dutch grocery price index tracking a fixed basket of 72 Albert Heijn products, with automatic shrinkflation detection. [Live dashboard](https://nickzward.github.io/boodschappen-index/)
+
 ## 🃏 Currently
 
 Building an AI agent for the **Pokémon TCG AI Challenge** on Kaggle, using self-play reinforcement learning, imitation learning from replay data, and a lot of evaluation methodology. Writeup coming after the competition wraps.
