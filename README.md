@@ -16,9 +16,9 @@ Fraud data analyst at **ABN AMRO** in Amsterdam. I work with payment scheme data
 
 - **[boodschappen-index](https://github.com/NickZward/boodschappen-index)**: an independent daily Dutch grocery price index tracking a fixed basket of 72 Albert Heijn products, with automatic shrinkflation detection. [Live dashboard](https://nickzward.github.io/boodschappen-index/)
 
-## 🃏 Currently
+## 🃏 Pokémon TCG AI Challenge
 
-Building an AI agent for the **Pokémon TCG AI Challenge** on Kaggle, using self-play reinforcement learning, imitation learning from replay data, and a lot of evaluation methodology. Writeup coming after the competition wraps.
+Finished **rank 418 of 6,807 (bronze medal)** in Kaggle's Pokémon TCG AI Challenge, building agents with imitation learning from top-player replays, self-play RL, and a heavily audited evaluation harness. The submitted writeup, "Fix the Instruments First", lives with all the code in [PTCG-AI-Challenge](https://github.com/NickZward/PTCG-AI-Challenge).
 
 ## 🛠️ Tools I reach for
 
